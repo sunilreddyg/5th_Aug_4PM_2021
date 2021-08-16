@@ -1,0 +1,145 @@
+Agile Testing:-->
+
+	=> Agile is a iterative developement model.
+	=> In agile total software divided into smaller stories.
+	=> A set of stories organization develop and release sotfware iteration wise.
+	=> An iteration is a small period of time where fully functional software
+			developed and release to client with in 1 to 2weeks of time.
+
+	What is advantage to client?.
+
+		=> Welcome chanage requriments even at developement.
+
+	sprint:-->
+		Sprint is a duration of time where a few userstories 
+		developed end to end.
+
+
+Scrum:-->
+	=> Popular developement framework in agile..
+
+	Scrum Users:-->
+		1. Product Owner    [Business Analyst]
+		2. Scrum Master     
+		3. Developement Team  and  QA Team
+
+	Step1:-->
+		BA collect initial requirements and Prepare usecases
+
+		What is UseCase?.
+			A Specific Requirement Based on StakeHolder View.
+
+			To Understand Usercase to Every Team member Product
+			owner convert into UserStories.
+
+			UserStory:-->
+				A small narration of  requirement what client is
+				expecting..
+
+				As a ------I want ------So That
+
+				=> As a customer i want to add products to cart
+				=> As a Merchant i want to add new product So that user can purchase								can purchase
+
+			Note:--> All user stories will be added to backup folder..
+
+	Step2:-->	[Dynamic planning/ High Level Planning]
+
+				=> product owner select few user stories from
+					back up folder and create New Sprint.
+				=> Sprint is a duration of small period of time where
+					all user stories to develop and test.
+				=> All Development and testing process monitor
+					by [Scrum master].
+				=> If any user story is incomplete Send user story
+					back to backup folder and then user story
+					will be reassingned in another sprint.
+
+	Step3:-->
+			=> After Sprint planning develpemenet team and testing team create sub tasks.
+
+					Develpoer task1:--> Write a program for user story
+					Developer task2:--> Draw a flowgraphs to programs
+					Develoepr task3:--> Complete unit Testing
+
+					Tester task4:-->  Conduct manual test
+					Tester taks5:-->  prepare automation code
+					Tester task6:-->  Debug program before execution
+					Tester task7:-->  Reporting failure defects
+					Scrum Master:-->  prepare metrics for sprint..  
+
+
+					Note:--> After completing each task developer,testengineer and other
+						team memebers move all taks from Inprogress state to done state.
+
+
+				Story points:-->
+					Because story points represent the effort to develop a story
+					
+				Who provide this story point:-->
+
+					Everyone who involve int userstory developement 
+					[Developer, Tester, Operational Team, Metric ---etc]
+
+					What Goes Into a Story Point?
+
+						The amount of work to do
+						The complexity of the work
+						Any risk or uncertainty in doing the work
+
+
+				Developement :-->  5   
+				Tester	     :-->  3
+				Operationals :-->  2
+
+			
+
+				What is Burndown chart:-->
+
+	
+				BurnDown Chart:-->
+
+					=> Use the Burndown Chart to track the total work remaining for a sprint, 
+						and to project the likelihood of achieving the sprint goal.
+ 
+					=> By tracking the remaining work throughout the iteration, 
+						a team can manage its progress and respond accordingly.
+
+====================================================================================================================>>
+Meeting:-->
+
+		=> Sprint Planning
+		=> StandUp meeting
+		=> Iteration meeting
+		=> Retrospective meeting
+
+=====================================================================================================================>>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+		
